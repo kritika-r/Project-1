@@ -1,0 +1,25 @@
+body{
+    text-align:center;
+    background-color: deepskyblue;
+    font-size: 35px;
+    
+}
+div{
+    margin-top:15px;
+}
+.image-section{
+    display: flex;
+    align-content: center;
+    
+}
+.section-style{
+    margin-right: :55px;
+    margin-left: :55px;
+    background-color: white;
+}
+img{
+    height: 935px;
+    width: :935px;
+    margin-right: 35px;
+    
+}
